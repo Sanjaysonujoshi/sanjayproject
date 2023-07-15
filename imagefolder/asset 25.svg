@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 32 32" style="filter: drop-shadow(1px 1px 1px #3974ff)" xml:space="preserve">
+	<defs>
+        <filter id="shadow">
+            <feOffset result="offOut" in="SourceAlpha" dx="1" dy="1"/>
+            <feGaussianBlur result="blurOut" in="offOut" stdDeviation="1"/>
+            <feBlend in="SourceGraphic" in2="blurOut" mode="normal"/>
+        </filter>
+    </defs>
+    <g class="adjustable dropShadow">
+	<path style="fill: #ffffff" class="adjustable fg" d="M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z"/>
+</g>
+</svg>
