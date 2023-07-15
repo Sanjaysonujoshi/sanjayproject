@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" style="filter: drop-shadow(1px 1px 1px #3974ff)">
+    <g class="adjustable fg dropShadow with-strokes">
+        <path class="add-fill" fill-rule="evenodd" clip-rule="evenodd" d="M12.5892 3.87305C12.5892 3.5866 12.426 3.32517 12.1687 3.19932C11.9113 3.07346 11.6048 3.10518 11.3787 3.28104L5.60912 7.76849C5.51697 7.78499 5.43066 7.81832 5.35348 7.86518H1.67745C1.29269 7.86518 0.933652 8.02483 0.675838 8.27976C0.395291 8.55173 0.25 8.92125 0.25 9.29263V14.7122C0.25 15.0811 0.393321 15.4481 0.670138 15.7195C0.941565 15.9963 1.30859 16.1397 1.67745 16.1397H5.4848L11.3787 20.7238C11.6048 20.8997 11.9113 20.9314 12.1687 20.8055C12.426 20.6797 12.5892 20.4182 12.5892 20.1318V3.87305ZM4.99219 9.36518H1.75V14.6397H4.99219V9.36518ZM6.49219 15.0229L11.0892 18.5983V5.40653L6.49219 8.98195V15.0229Z" style="fill: #ffffff"/>
+        <path class="add-stroke" d="M19.1989 3.65625C24.4342 9.24925 24.0602 14.8097 19.3127 20.3431" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" style="stroke: #ffffff"/>
+        <path class="add-stroke" d="M16.9228 6.32812C20.646 10.5771 20.1691 14.2949 16.9065 17.6659" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" style="stroke: #ffffff"/>
+        <path class="add-stroke" d="M14.4026 8.97266C16.4133 10.8153 16.6029 12.8151 14.4026 15.0263" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" style="stroke: #ffffff"/>
+        <path class="add-stroke" d="M21.8995 2.10059L2.10055 21.8996" stroke-width="1.5" stroke-linecap="round" style="stroke: #ffffff"/>
+    </g>
+</svg>
